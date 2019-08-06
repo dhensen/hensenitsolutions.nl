@@ -9,7 +9,7 @@ const Nav = () => (
         <Link to="/diensten">Diensten</Link>
       </li>
       <li>
-        <a href="https://github.com/dhensen/hensenitsolutions.nl">GitHub</a>
+        <a href="mailto:info@hensenitsolutions.nl">Contact</a>
       </li>
     </ul>
   </Container>
