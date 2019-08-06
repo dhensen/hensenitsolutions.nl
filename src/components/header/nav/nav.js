@@ -9,6 +9,12 @@ const Nav = () => (
         <Link to="/diensten">Diensten</Link>
       </li>
       <li>
+        <Link to="/kubernetes-freelancer-inhuren">Kubernetes</Link>
+      </li>
+      <li>
+        <Link to="/codereview-guidelines">Code Reviews</Link>
+      </li>
+      <li>
         <a href="mailto:info@hensenitsolutions.nl">Contact</a>
       </li>
     </ul>
