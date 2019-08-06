@@ -25,8 +25,8 @@ const Index = ({ data }) => (
       </Modal>
     </Box>
     <Gallery items={data.homeJson.gallery} />
-    <div style={{ height: '50vh' }} />
-    <IOExample />
+    {/* <div style={{ height: '50vh' }} /> */}
+    {/* <IOExample /> */}
   </Layout>
 );
 

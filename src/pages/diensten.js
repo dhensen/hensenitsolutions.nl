@@ -5,28 +5,28 @@ import Layout from 'components/layout';
 import Box from 'components/box';
 import Head from 'components/head';
 
-const About = ({ data }) => (
+const Diensten = ({ data }) => (
   <Layout>
-    <Head pageTitle={data.aboutJson.title} />
+    <Head pageTitle={data.dienstenJson.title} />
     <Box>
       <div
         dangerouslySetInnerHTML={{
-          __html: data.aboutJson.content.childMarkdownRemark.html,
+          __html: data.dienstenJson.content.childMarkdownRemark.html,
         }}
       />
     </Box>
   </Layout>
 );
 
-About.propTypes = {
+Diensten.propTypes = {
   data: PropTypes.object.isRequired,
 };
 
-export default About;
+export default Diensten;
 
 export const query = graphql`
-  query AboutQuery {
-    aboutJson {
+  query ServicesQuery {
+    dienstenJson {
       title
       content {
         childMarkdownRemark {

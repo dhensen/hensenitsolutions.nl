@@ -1,10 +1,10 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: `Gatsby Universal`,
-  siteTitleShort: `GatsbyU`,
-  siteDescription: `An opinionated starter for Gatsby.`,
-  siteUrl: `https://gu.fabianschultz.com`,
+  siteTitle: `Hensen IT Solutions`,
+  siteTitleShort: `Hensen IT Solutions`,
+  siteDescription: `Hensen IT Solutions`,
+  siteUrl: `https://www.hensenitsolutions.nl`,
   themeColor: `#000`,
   backgroundColor: `#fff`,
   pathPrefix: null,

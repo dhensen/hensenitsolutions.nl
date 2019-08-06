@@ -1,1 +1,1 @@
-An opinionated starter for using Gatsby v2 with React Context, tag-agnostic styled-components, page transitions and scroll events with IntersectionObserver.
+Bij software development bureau Hensen IT Solutions kunt u terecht als u uw software development wilt uitbesteden en voor adviezen over software ontwikkelingen.
