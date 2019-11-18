@@ -17,23 +17,23 @@ Aan u als recruiter is het de taak om duidelijk te formuleren wat er van de code
 
 Om dit proces te bespoedigen volgen een aantal richtlijnen waaraan de door uw kandidaat aangeleverde broncode moet voldoen:
 
-- manier van aanleveren broncode:
-  -  via een code hosting platform zoals bijvoorbeeld Github, Gitlab, Bitbucket, etc
-  - via een gecompresseerd archief, noem het een zip-file, (.zip, .tar.gz, .rar)  die niet groter is dan 5MB
-- quantiteit:
-  - OF één link naar één specifieke broncode repository op één code hosting platform zoals bijvoorbeeld Github, Gitlab, Bitbucket, etc
-  - OF zip archief als attachments (andere archief formaten zijn ook welkom, zoals bijv .tar.gz, .rar, etc...)
-  - OF één download link naar eenzip-file, maar liever niet i.v.m. snel verlopen van de link en kandidaten sturen soms overbodige grote zip-files
-- de inhoud van de code repository moet:
-  - een duidelijke readme bevatten waarin staat wat het project doet (of wat het zou moeten doen) en hoe je het draaiend krijgt
-  - géén derde partij source code bevatten
-    - elke serieuze ontwikkelaar behoort een dependency management systeem te kunnen hanteren en dependencies/afhankelijkheden buiten  zijn/haar VCS systeem
-    - wanneer het niet mogelijk is derde partij source code buiten het project te houden moet een duidelijke lijst aanwezig zijn waarop staat welke code WEL door kandidaat gemaakt
-  - geen gecompilede binaries bevatten
-  - geen bestanden bevatten die voor de codereview irrelevant zijn
-  - geen broncode bevatten waarin slecht taalgebruik/scheldwoorden staan
-    - dit is per definitie niet professioneel en hieruit blijkt frustratie en onkunde(gaan schelden als het je niet lukt omdat je eigen   niveau te laag is?) - geen broncode bevatten waarin live credentials (host/port/username/password) staan (logisch toch? maar dit gebeurt te vaak)
-  - geen broncode bevatten waar kandidaat geen rechten op heeft, zoals wanneer een kandidaat een NDA heeft getekend
+1. manier van aanleveren broncode:
+   1. via een code hosting platform zoals bijvoorbeeld Github, Gitlab, Bitbucket, etc
+   2. via een gecompresseerd archief, noem het een zip-file, (.zip, .tar.gz, .rar)  die niet groter is dan 5MB
+2. quantiteit:
+   1. OF één link naar één specifieke broncode repository op één code hosting platform zoals bijvoorbeeld Github, Gitlab, Bitbucket, etc
+   2. OF zip archief als attachments (andere archief formaten zijn ook welkom, zoals bijv .tar.gz, .rar, etc...)
+   3. OF één download link naar eenzip-file, maar liever niet i.v.m. snel verlopen van de link en kandidaten sturen soms overbodige grote zip-files
+3. de inhoud van de code repository moet:
+   1. een duidelijke readme bevatten waarin staat wat het project doet (of wat het zou moeten doen) en hoe je het draaiend krijgt
+4. géén derde partij source code bevatten
+   1. elke serieuze ontwikkelaar behoort een dependency management systeem te kunnen hanteren en dependencies/afhankelijkheden buiten  zijn/haar VCS systeem
+   2. wanneer het niet mogelijk is derde partij source code buiten het project te houden moet een duidelijke lijst aanwezig zijn waarop staat welke code WEL door kandidaat gemaakt
+5. geen gecompilede binaries bevatten
+6. geen bestanden bevatten die voor de codereview irrelevant zijn
+7. geen broncode bevatten waarin slecht taalgebruik/scheldwoorden staan
+   1. dit is per definitie niet professioneel en hieruit blijkt frustratie en onkunde(gaan schelden als het je niet lukt omdat je eigen   niveau te laag is?) - geen broncode bevatten waarin live credentials (host/port/username/password) staan (logisch toch? maar dit gebeurt te vaak)
+8. geen broncode bevatten waar kandidaat geen rechten op heeft, zoals wanneer een kandidaat een NDA heeft getekend
 
 Bovenstaande zijn richtlijnen, geen harde regels. Als recruiter is het onmogelijk om dit voor het indienen te controleren, deze verantwoordelijkheid ligt bij de kandidaat.
 
