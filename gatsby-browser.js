@@ -1,3 +1,4 @@
+import './src/styles/global.css';
 import React from 'react';
 import AppProvider from 'store/provider';
 import wrapPageElementWithTransition from 'helpers/wrapPageElement';
